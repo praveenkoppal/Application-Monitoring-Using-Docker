@@ -109,9 +109,5 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ---
 
-## 🙋‍♂️ Contact
 
-- **Basavaraj**
-- 📧 <bbasavarajnayak64@gmail.com>
-- 🔗 [LinkedIn](https://www.linkedin.com/in/basavaraj-nayak-577689294/)
     
